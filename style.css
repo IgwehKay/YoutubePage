@@ -332,5 +332,5 @@ hr{
 }
 
 @media(max-width:480px){
-    card_container
+    .card_container
 }
