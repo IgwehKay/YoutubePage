@@ -326,14 +326,14 @@ hr{
     height: 2px;
     background-color: #e5e5e5;
 }    
-@media screen and (min-width:480px) {  
+@media screen and (max-width:480px) {  
     .icons
     
 }
 
-@media screen and (min-width:480px) {  
+@media screen and (max-width:480px) {  
     .card_container
 }
-@media screen and (min-width:480px) {  
+@media screen and (max-width:480px) {  
     .card_box
 }
