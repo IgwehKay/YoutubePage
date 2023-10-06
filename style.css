@@ -46,11 +46,6 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-/* .logo_box{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
 
 .center_input{
     display: flex;
@@ -114,7 +109,7 @@ nav{
 
 .right_icons{
     display: flex;
-    jusify-content: space-between;
+    justify-content: space-between;
     align-items: center;
     margin-right: 20px;
 }
@@ -333,4 +328,9 @@ hr{
 }    
 @media screen and (max-width:768px) {  
     .icons
+    
+}
+
+@media(max-width:480px){
+    card_container
 }
